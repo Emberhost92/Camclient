@@ -21,7 +21,7 @@ Developed by **Emberhost**. / Entwickelt von **Emberhost**.
 
 <p><strong>Get started / Für den Einstieg:</strong> <a href="https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js">Install or update Camclient / Camclient installieren oder aktualisieren</a> · <a href="#english">English guide</a> · <a href="#deutsch">Deutsche Anleitung</a> · <a href="https://github.com/Emberhost92/Camclient/issues/new/choose">Feedback</a></p>
 
-**Version:** 20.112.0-custom · **License / Lizenz:** [MIT](LICENSE) · **Platform / Plattform:** Chaturbate · [Changes / Änderungen](CHANGELOG.md)
+**Version:** 20.113.0-custom · **License / Lizenz:** [MIT](LICENSE) · **Platform / Plattform:** Chaturbate · [Changes / Änderungen](CHANGELOG.md)
 
 ## Features / Funktionen
 

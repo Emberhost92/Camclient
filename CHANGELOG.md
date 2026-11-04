@@ -1,8 +1,12 @@
 # Camclient — changes / Änderungen
 
-Current version / Aktuelle Version: **20.112.0-custom**.
+Current version / Aktuelle Version: **20.113.0-custom**.
 
 The script contains the full documented project history under About. / Die vollständige dokumentierte Projekthistorie steht im Skript unter Über.
+
+## 20.113.0-custom · 2026-11-04
+
+- MultiCam: wiederholte identische Fehlermetriken nicht bei jedem Fortschrittsereignis archivieren; neue Fehler und regelmäßige Messpunkte bleiben erhalten. Erfolgreich erholte Medienfehler lösen später keinen unnötigen Playerneustart mehr aus. MultiCam-Steuerung und globale Einstellungen eindeutiger benannt.
 
 ## 20.112.0-custom · 2026-11-03
 
@@ -19,7 +23,3 @@ The script contains the full documented project history under About. / Die volls
 ## 20.109.0-custom · 2026-11-02
 
 - MultiCam und SingleCam: Laufende Videos erhalten Vorrang bei Archivlesen und Sammlung. Große lokale Bestände werden effizienter verarbeitet; persönliche Daten und atomare Speicherung bleiben erhalten.
-
-## 20.108.0-custom · 2026-11-02
-
-- MultiCam: Ein kleines X entfernt einzelne Streams aus der aktuellen Raster- oder Fokusansicht; gespeicherte Modeldaten bleiben erhalten.
