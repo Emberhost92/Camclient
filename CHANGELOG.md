@@ -1,8 +1,12 @@
 # Camclient — changes / Änderungen
 
-Current version / Aktuelle Version: **20.113.0-custom**.
+Current version / Aktuelle Version: **20.114.0-custom**.
 
 The script contains the full documented project history under About. / Die vollständige dokumentierte Projekthistorie steht im Skript unter Über.
+
+## 20.114.0-custom · 2026-11-04
+
+- Kompakter Bibliothekskopf: Suche und Sammlung weiter oben; sämtliche Kennzahlen und Datenquellen gemeinsam aufklappbar. Einstellungs-Direktlinks im Hauptmenü durch einen zentralen Zugang ersetzt; MultiCam-Menü ohne doppelten Einstellungen-Eintrag und mit gemeinsamem Import-/Export-Zugang.
 
 ## 20.113.0-custom · 2026-11-04
 
@@ -19,7 +23,3 @@ The script contains the full documented project history under About. / Die volls
 ## 20.110.0-custom · 2026-11-02
 
 - MultiCam: Sichtbare Streams beim gemeinsamen Start vor Hintergrund-Raumprüfungen laden; die übrigen Prüfungen werden nachgeholt.
-
-## 20.109.0-custom · 2026-11-02
-
-- MultiCam und SingleCam: Laufende Videos erhalten Vorrang bei Archivlesen und Sammlung. Große lokale Bestände werden effizienter verarbeitet; persönliche Daten und atomare Speicherung bleiben erhalten.
