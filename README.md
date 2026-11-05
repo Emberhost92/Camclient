@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/camclient-banner.svg" alt="Camclient für Chaturbate" width="640">
+  <img src="docs/assets/camclient-banner.png" alt="Camclient" width="920">
 </p>
 
 # Camclient
