@@ -4,22 +4,27 @@
 
 # Camclient
 
-Tampermonkey-Skript für Chaturbate, von **Emberhost**.
+**Damit wird Chaturbate erst richtig gut.**
 
-Damit schaust du deine Lieblingsmodels und Streamerinnen auf Chaturbate: live, nackt, beim Ficken oder bei dem, was sie sonst in der Cam machen. Eine allein oder mehrere gleichzeitig. Dazu kommen Funktionen, die die normale Seite so nicht hat. Deine Sammlung bleibt im Browser.
+Tampermonkey-Skript von **Emberhost**. Wenn du deine Lieblingsmodels und Streamerinnen schaust, brauchst du das hier.
 
-**20.114.0-custom** · [MIT](LICENSE) · **[Installieren](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** · [Änderungen](CHANGELOG.md) · [English](#english)
+Du hast sie live, nackt, beim Ficken oder bei dem, was sie gerade in der Cam machen. Eine ganz groß, nah, mit Chat daneben. Oder mehrere gleichzeitig, damit dir das Geile nicht entgeht, während eine andere noch redet. Schon auf der Startseite siehst du, was läuft. Deine Favoriten bleiben deine. Und du kriegst Bescheid, wenn eine online geht.
 
-## Funktionen
+Ein Skript. Viele Vorteile. Alles bleibt in deinem Browser.
 
-- **SingleCam:** eine Streamerin groß, mit Zoom, Ton, Chat, Profil und eigenen Notizen. Screenshots und Aufnahmen landen in ihrer Galerie, lokal bei dir. Bild-im-Bild und Vollbild gehen auch.
-- **MultiCam:** mehrere Cams im Raster, oder eine groß und die anderen daneben. Reinziehen, austauschen, mit × aus der Ansicht nehmen. Ton und Qualität pro Fenster. Anzeige, ob in der Cam gerade was zu hören ist, auch bei Stumm. Meldung, wenn eine aus deiner Sammlung online oder offline geht.
-- **Entdecken:** öffentliche Räume suchen. Tags mit UND, ODER und Ausschluss, nach Zuschauern filtern, Favoriten und wen du schon gesehen hast. Vorschläge nach dem, was du dir lokal schon angeschaut hast. Den Rest ausblenden.
-- **Live-Vorschau:** Auf der Startseite und in den Listen laufen die Karten als Livebild. Maus drauf, dann kommt das Video stumm und etwas größer. Anheften geht auch. Zählt nicht als Sehzeit.
-- **Bibliothek:** Favoriten, Gruppen, eigene Tags, Notizen, Cover, gespeicherte Bilder und Clips. Auf der Raumseite ein Dock: aktuelle Streamerin in den Arbeitsbereich, Screenshot, Aufnahme, Bild-im-Bild, Pause, Stumm.
-- **Gefolgt:** die Models, denen du auf Chaturbate folgst. Nur die Liste. Das Skript folgt niemandem und entfolgt niemandem.
-- **Statistik:** wen du wie lange angeschaut hast, wie oft, welche Tags, zu welcher Uhrzeit. Nur das, was Camclient selbst gesehen hat. Keine Tokens, keine privaten Nachrichten, keine Passwörter.
-- **Aussehen und Sicherung:** Farben, Schrift, Dark Mode, Clean-Modus ohne die Buttons. Arbeitsbereiche merken sich Räume und Layout. Einstellungen und Statistik exportieren und wieder reinholen.
+**20.114.0-custom** · [MIT](LICENSE) · **[Jetzt installieren](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** · [Änderungen](CHANGELOG.md) · [English](#english)
+
+## Das bringt es dir
+
+- **Mehrere Streamerinnen auf einmal.** Raster, oder eine groß und die anderen daneben. Reinziehen, tauschen, Ton und Qualität für jede Cam einzeln. Du siehst, ob gerade was zu hören ist, auch bei Stumm. Genau dafür lohnt sich Camclient.
+- **Die eine, die du jetzt willst, sofort groß.** Zoom, Chat, Profil, eigene Notizen. Screenshot und Aufnahme landen in ihrer Galerie, lokal bei dir. Bild-im-Bild und Vollbild gehen mit.
+- **Vorher sehen, was sich lohnt.** Live-Vorschau auf der Startseite und in den Listen. Maus drauf, das Video läuft stumm und etwas größer. Anheften geht auch. Du öffnest die Cam, in der gerade was passiert. Die Vorschau zählt nicht als Sehzeit.
+- **Deine Models an einem Ort.** Favoriten, Gruppen, eigene Tags, Notizen, Cover, Bilder und Clips. Auf der Raumseite nimmst du die aktuelle Streamerin direkt in deinen Arbeitsbereich, mit Screenshot, Aufnahme, Bild-im-Bild, Pause und Stumm.
+- **Nichts mehr verpassen.** Meldung, wenn eine aus deiner Sammlung online oder offline geht. Gefolgt zeigt die Models, denen du auf Chaturbate schon folgst. Nur die Liste, das Skript folgt niemandem.
+- **Du siehst, wen du dir gönnst.** Statistik: wie lange, wie oft, welche Tags, welche Uhrzeit. Nur das, was Camclient selbst gesehen hat. Keine Tokens, keine privaten Nachrichten, keine Passwörter.
+- **Sieht aus, wie du es willst, und bleibt da.** Farben, Schrift, Dark Mode, Clean-Modus ohne die Buttons, nur die Cams. Arbeitsbereiche merken sich Räume und Layout. Exportieren, dann übersteht ein Update deine Sammlung.
+
+Suchen, filtern, Tags mit UND, ODER und Ausschluss, nach Zuschauern, nach Favoriten und nach dem, wen du schon gesehen hast. Vorschläge richten sich nach dem, was du dir lokal schon angeschaut hast. Den Rest blendest du aus.
 
 ## Installieren
 
@@ -40,16 +45,23 @@ Zum Aktualisieren zuerst exportieren, was du behalten willst. Denselben Installa
 
 ## English
 
-Userscript for Chaturbate, by **Emberhost**. Watch your favorite models and female streamers live: naked, fucking, or whatever they are doing on cam. One at a time, or several at once. Extra tools on top. Your collection stays in the browser.
+**This is how Chaturbate should feel.**
 
-- **SingleCam:** one streamer large, with zoom, sound, chat, profile and your notes. Screenshots and recordings go into her gallery on your machine. Picture-in-picture and fullscreen too.
-- **MultiCam:** several cams in a grid, or one large and the others beside her. Drag in, swap, remove from the view with ×. Sound and quality per window. A meter shows when the cam is making noise, even while muted. Alert when someone in your collection goes online or offline.
-- **Discover:** search public rooms. Tags with AND, OR and exclude. Filter by viewers, favorites and who you already watched. Suggestions follow what you watched locally. Hide the rest.
-- **Live preview:** On the home page and in the lists the cards show the live picture. Hover and the video plays muted, a bit larger. You can pin it. It does not count as watch time.
-- **Library:** favorites, groups, your own tags, notes, covers, saved pictures and clips. On the room page a dock adds the current streamer to your workspace and does screenshot, recording, picture-in-picture, pause and mute.
-- **Following:** the models you already follow on Chaturbate. The list only. The script does not follow or unfollow anyone.
-- **Stats:** who you watched, for how long, how often, which tags, what hour. Only what Camclient itself saw. No tokens, no private messages, no passwords.
-- **Look and backup:** colors, fonts, dark mode, clean mode with the buttons gone. Workspaces remember rooms and layout. Export and import settings and stats.
+A Tampermonkey script by **Emberhost**. If you watch your favorite models and female streamers, you want this.
+
+You get them live, naked, fucking, or doing whatever is happening on cam. One of them large and close. Or several at once, so you do not miss the good part while another one is still talking. The home page already shows what is going on. Your favorites stay yours. You get told when someone goes online.
+
+One script. A lot of advantages. It all stays in your browser.
+
+- **Several streamers at once.** A grid, or one large and the others beside her. Drag, swap, sound and quality per cam. You can see when a cam is making noise, even while muted.
+- **The one you want, large, right now.** Zoom, chat, profile, your own notes. Screenshots and recordings go into her gallery on your machine. Picture-in-picture and fullscreen too.
+- **See if she is worth opening.** Live preview on the home page and in the lists. Hover and the video plays muted, a bit larger. You can pin it. Open the cam where something is actually happening. Previews do not count as watch time.
+- **Your models in one place.** Favorites, groups, your own tags, notes, covers, pictures and clips. On the room page you drop the current streamer straight into your workspace, with screenshot, recording, picture-in-picture, pause and mute.
+- **Stop missing them.** An alert when someone in your collection goes online or offline. Following shows the models you already follow on Chaturbate. The list only. The script follows nobody.
+- **See who you keep coming back to.** Stats for how long, how often, which tags, what hour. Only what Camclient itself saw. No tokens, no private messages, no passwords.
+- **Looks the way you want, and stays.** Colors, fonts, dark mode, clean mode with nothing but the cams. Workspaces remember rooms and layout. Export, and an update does not have to cost you the collection.
+
+Search and filter too: tags with AND, OR and exclude, by viewers, favorites, and who you already watched. Suggestions follow what you watched locally. Hide the rest.
 
 <details>
 <summary>Install and update</summary>
