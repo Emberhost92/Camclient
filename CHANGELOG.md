@@ -1,8 +1,12 @@
 # Camclient — changes / Änderungen
 
-Current version / Aktuelle Version: **20.116.0-custom**.
+Current version / Aktuelle Version: **20.116.1-custom**.
 
 The script contains the full documented project history under About. / Die vollständige dokumentierte Projekthistorie steht im Skript unter Über.
+
+## 20.116.1-custom · 2026-11-05
+
+- MultiCam: Die Hover-Live-Vorschau der linken Raumliste funktioniert auch mit „Nur schauen“. Ein eigener Schalter speichert die Wahl und beendet eine laufende Vorschau beim Ausschalten.
 
 ## 20.116.0-custom · 2026-11-05
 
@@ -19,7 +23,3 @@ The script contains the full documented project history under About. / Die volls
 ## 20.114.0-custom · 2026-11-04
 
 - Kompakter Bibliothekskopf: Suche und Sammlung weiter oben; sämtliche Kennzahlen und Datenquellen gemeinsam aufklappbar. Einstellungs-Direktlinks im Hauptmenü durch einen zentralen Zugang ersetzt; MultiCam-Menü ohne doppelten Einstellungen-Eintrag und mit gemeinsamem Import-/Export-Zugang.
-
-## 20.113.0-custom · 2026-11-04
-
-- MultiCam: wiederholte identische Fehlermetriken nicht bei jedem Fortschrittsereignis archivieren; neue Fehler und regelmäßige Messpunkte bleiben erhalten. Erfolgreich erholte Medienfehler lösen später keinen unnötigen Playerneustart mehr aus. MultiCam-Steuerung und globale Einstellungen eindeutiger benannt.

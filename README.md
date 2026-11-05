@@ -14,7 +14,7 @@ Ein Skript. Viele Vorteile. Alles bleibt in deinem Browser.
 
 **SingleCam · MultiCam · Live-Vorschau · Entdecken · Bibliothek · Gefolgt · Statistik**
 
-**20.116.0-custom** · [MIT](LICENSE) · **[Jetzt installieren](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** · [Änderungen](CHANGELOG.md) · [English](#english)
+**20.116.1-custom** · [MIT](LICENSE) · **[Jetzt installieren](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** · [Änderungen](CHANGELOG.md) · [English](#english)
 
 ## Das bringt es dir
 

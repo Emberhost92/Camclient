@@ -1,8 +1,8 @@
 {
   "name": "Camclient",
   "author": "Emberhost",
-  "scriptVersion": "20.116.0-custom",
-  "sha256": "c831f707740906b7dabf30d54188ee1d968e52b7a702104e5f9f590021c5814b",
+  "scriptVersion": "20.116.1-custom",
+  "sha256": "b11c0362dc5d199a6c97f9f0559965993321fdfbe089c5291275faf4b43b8931",
   "repository": "https://github.com/Emberhost92/Camclient",
   "distributedFile": "Camclient.user.js"
 }
