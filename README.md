@@ -12,19 +12,20 @@ Du hast sie live, nackt, beim Ficken oder bei dem, was sie gerade in der Cam mac
 
 Ein Skript. Viele Vorteile. Alles bleibt in deinem Browser.
 
+**SingleCam · MultiCam · Live-Vorschau · Entdecken · Bibliothek · Gefolgt · Statistik**
+
 **20.114.0-custom** · [MIT](LICENSE) · **[Jetzt installieren](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** · [Änderungen](CHANGELOG.md) · [English](#english)
 
 ## Das bringt es dir
 
-- **Mehrere Streamerinnen auf einmal.** Raster, oder eine groß und die anderen daneben. Reinziehen, tauschen, Ton und Qualität für jede Cam einzeln. Du siehst, ob gerade was zu hören ist, auch bei Stumm. Genau dafür lohnt sich Camclient.
-- **Die eine, die du jetzt willst, sofort groß.** Zoom, Chat, Profil, eigene Notizen. Screenshot und Aufnahme landen in ihrer Galerie, lokal bei dir. Bild-im-Bild und Vollbild gehen mit.
-- **Vorher sehen, was sich lohnt.** Live-Vorschau auf der Startseite und in den Listen. Maus drauf, das Video läuft stumm und etwas größer. Anheften geht auch. Du öffnest die Cam, in der gerade was passiert. Die Vorschau zählt nicht als Sehzeit.
-- **Deine Models an einem Ort.** Favoriten, Gruppen, eigene Tags, Notizen, Cover, Bilder und Clips. Auf der Raumseite nimmst du die aktuelle Streamerin direkt in deinen Arbeitsbereich, mit Screenshot, Aufnahme, Bild-im-Bild, Pause und Stumm.
-- **Nichts mehr verpassen.** Meldung, wenn eine aus deiner Sammlung online oder offline geht. Gefolgt zeigt die Models, denen du auf Chaturbate schon folgst. Nur die Liste, das Skript folgt niemandem.
-- **Du siehst, wen du dir gönnst.** Statistik: wie lange, wie oft, welche Tags, welche Uhrzeit. Nur das, was Camclient selbst gesehen hat. Keine Tokens, keine privaten Nachrichten, keine Passwörter.
-- **Sieht aus, wie du es willst, und bleibt da.** Farben, Schrift, Dark Mode, Clean-Modus ohne die Buttons, nur die Cams. Arbeitsbereiche merken sich Räume und Layout. Exportieren, dann übersteht ein Update deine Sammlung.
-
-Suchen, filtern, Tags mit UND, ODER und Ausschluss, nach Zuschauern, nach Favoriten und nach dem, wen du schon gesehen hast. Vorschläge richten sich nach dem, was du dir lokal schon angeschaut hast. Den Rest blendest du aus.
+- **MultiCam:** Mehrere Streamerinnen auf einmal. Raster, oder eine groß und die anderen daneben. Reinziehen, tauschen, Ton und Qualität für jede Cam einzeln. Du siehst, ob gerade was zu hören ist, auch bei Stumm. Meldung, wenn eine aus deiner Sammlung online oder offline geht. Genau dafür lohnt sich Camclient.
+- **SingleCam:** Die eine, die du jetzt willst, sofort groß. Zoom, Chat, Profil, eigene Notizen. Screenshot und Aufnahme landen in ihrer Galerie, lokal bei dir. Bild-im-Bild und Vollbild gehen mit.
+- **Live-Vorschau:** Vorher sehen, was sich lohnt. Auf der Startseite und in den Listen. Maus drauf, das Video läuft stumm und etwas größer. Anheften geht auch. Du öffnest die Cam, in der gerade was passiert. Die Vorschau zählt nicht als Sehzeit.
+- **Entdecken:** Öffentliche Räume suchen und filtern. Tags mit UND, ODER und Ausschluss, nach Zuschauern, nach Favoriten und nach dem, wen du schon gesehen hast. Vorschläge richten sich nach dem, was du dir lokal schon angeschaut hast. Den Rest blendest du aus.
+- **Bibliothek:** Deine Models an einem Ort. Favoriten, Gruppen, eigene Tags, Notizen, Cover, Bilder und Clips. Auf der Raumseite nimmst du die aktuelle Streamerin direkt in deinen Arbeitsbereich, mit Screenshot, Aufnahme, Bild-im-Bild, Pause und Stumm.
+- **Gefolgt:** Die Models, denen du auf Chaturbate schon folgst, auf einen Blick. Nur die Liste. Das Skript folgt niemandem und entfolgt niemandem.
+- **Statistik:** Du siehst, wen du dir gönnst. Wie lange, wie oft, welche Tags, welche Uhrzeit. Nur das, was Camclient selbst gesehen hat. Keine Tokens, keine privaten Nachrichten, keine Passwörter.
+- **Aussehen und Arbeitsbereiche:** Sieht aus, wie du es willst, und bleibt da. Farben, Schrift, Dark Mode, Clean-Modus ohne die Buttons, nur die Cams. Arbeitsbereiche merken sich Räume und Layout. Exportieren, dann übersteht ein Update deine Sammlung.
 
 ## Installieren
 
@@ -53,15 +54,16 @@ You get them live, naked, fucking, or doing whatever is happening on cam. One of
 
 One script. A lot of advantages. It all stays in your browser.
 
-- **Several streamers at once.** A grid, or one large and the others beside her. Drag, swap, sound and quality per cam. You can see when a cam is making noise, even while muted.
-- **The one you want, large, right now.** Zoom, chat, profile, your own notes. Screenshots and recordings go into her gallery on your machine. Picture-in-picture and fullscreen too.
-- **See if she is worth opening.** Live preview on the home page and in the lists. Hover and the video plays muted, a bit larger. You can pin it. Open the cam where something is actually happening. Previews do not count as watch time.
-- **Your models in one place.** Favorites, groups, your own tags, notes, covers, pictures and clips. On the room page you drop the current streamer straight into your workspace, with screenshot, recording, picture-in-picture, pause and mute.
-- **Stop missing them.** An alert when someone in your collection goes online or offline. Following shows the models you already follow on Chaturbate. The list only. The script follows nobody.
-- **See who you keep coming back to.** Stats for how long, how often, which tags, what hour. Only what Camclient itself saw. No tokens, no private messages, no passwords.
-- **Looks the way you want, and stays.** Colors, fonts, dark mode, clean mode with nothing but the cams. Workspaces remember rooms and layout. Export, and an update does not have to cost you the collection.
+**SingleCam · MultiCam · Live preview · Discover · Library · Following · Stats**
 
-Search and filter too: tags with AND, OR and exclude, by viewers, favorites, and who you already watched. Suggestions follow what you watched locally. Hide the rest.
+- **MultiCam:** Several streamers at once. A grid, or one large and the others beside her. Drag, swap, sound and quality per cam. You can see when a cam is making noise, even while muted. An alert when someone in your collection goes online or offline.
+- **SingleCam:** The one you want, large, right now. Zoom, chat, profile, your own notes. Screenshots and recordings go into her gallery on your machine. Picture-in-picture and fullscreen too.
+- **Live preview:** See if she is worth opening. On the home page and in the lists. Hover and the video plays muted, a bit larger. You can pin it. Open the cam where something is actually happening. Previews do not count as watch time.
+- **Discover:** Search and filter public rooms. Tags with AND, OR and exclude, by viewers, favorites, and who you already watched. Suggestions follow what you watched locally. Hide the rest.
+- **Library:** Your models in one place. Favorites, groups, your own tags, notes, covers, pictures and clips. On the room page you drop the current streamer straight into your workspace, with screenshot, recording, picture-in-picture, pause and mute.
+- **Following:** The models you already follow on Chaturbate, in one list. The script does not follow or unfollow anyone.
+- **Stats:** See who you keep coming back to. How long, how often, which tags, what hour. Only what Camclient itself saw. No tokens, no private messages, no passwords.
+- **Look and workspaces:** Looks the way you want, and stays. Colors, fonts, dark mode, clean mode with nothing but the cams. Workspaces remember rooms and layout. Export, and an update does not have to cost you the collection.
 
 <details>
 <summary>Install and update</summary>
