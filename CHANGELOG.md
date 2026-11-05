@@ -1,8 +1,12 @@
 # Camclient — changes / Änderungen
 
-Current version / Aktuelle Version: **20.114.0-custom**.
+Current version / Aktuelle Version: **20.115.0-custom**.
 
 The script contains the full documented project history under About. / Die vollständige dokumentierte Projekthistorie steht im Skript unter Über.
+
+## 20.115.0-custom · 2026-11-05
+
+- MultiCam wertet Wiedergabe und Qualitätsbudget nur für eingebundene Player aus. Ausgeblendete Raumlisten werden erst beim Einblenden aktualisiert. Bildvorschauen ohne sichtbare Live-Karten oder mit deaktivierter Vorschau pausieren ihren Taktgeber.
 
 ## 20.114.0-custom · 2026-11-04
 
@@ -19,7 +23,3 @@ The script contains the full documented project history under About. / Die volls
 ## 20.111.0-custom · 2026-11-02
 
 - MultiCam: unnötige Player-Neustarts bei erneuerten Signaturen und vorübergehend unvollständigen Raumantworten vermeiden; nach endgültigen Netzwerkfehlern zeitnah mit frischer Raumabfrage wiederverbinden.
-
-## 20.110.0-custom · 2026-11-02
-
-- MultiCam: Sichtbare Streams beim gemeinsamen Start vor Hintergrund-Raumprüfungen laden; die übrigen Prüfungen werden nachgeholt.
