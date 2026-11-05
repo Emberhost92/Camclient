@@ -1,163 +1,176 @@
 <p align="center">
-  <img src="docs/assets/camclient-banner.svg" alt="Camclient — Live streams, your way" width="640">
+  <img src="docs/assets/camclient-banner.svg" alt="Camclient — dein Floor über Chaturbate" width="640">
 </p>
 
 # Camclient
 
-**SingleCam, MultiCam, model library and local statistics — one Tampermonkey script for Chaturbate.** Discover public live rooms, combine your favorite streams and organize your own collection directly in your browser.
+**Dein Floor. Deine Räume. Deine Nacht auf Chaturbate.**
 
-**SingleCam, MultiCam, Modellbibliothek und lokale Statistiken — ein Tampermonkey-Skript für Chaturbate.** Öffentliche Live-Räume entdecken, Lieblingsstreams kombinieren und die eigene Sammlung direkt im Browser organisieren.
+Camclient legt seinen eigenen Floor über die Seite: eigene Navigation, eigene Räume, eigenes Raster. Du jagst Live-Models, ziehst die geilsten Körper in die Kacheln, machst eine zur Hauptshow und lässt den Rest nackt im Blick. Tags, Notizen, Cover, Galerie, Screenshots, Aufnahmen und die Zeit, die du glotzend verbracht hast, bleiben bei dir im Browser.
 
-Developed by **Emberhost**. / Entwickelt von **Emberhost**.
+**Your floor. Your rooms. Your night on Chaturbate.**
 
-| Area / Bereich | What you can do / Was du damit machen kannst |
+Camclient lays its own floor over the page: its own navigation, its own rooms, its own grid. Hunt live models, drag the hottest bodies into the tiles, pin one as the main show and keep the rest naked in view. Tags, notes, covers, gallery, screenshots, recordings and the time you spent staring stay in your browser.
+
+Von **Emberhost**. Für Volljährige, die Chaturbate selbst reinlässt. / By **Emberhost**. For adults Chaturbate already lets in.
+
+| Floor | Was du damit anstellst / What you do with it |
 | --- | --- |
-| **Live & MultiCam** | Arrange streams in a grid or focus layout, drag models into slots, remove individual windows with × and control quality, sound and audio meters. / Streams im Raster oder Fokuslayout anordnen, Models in Fenster ziehen, einzelne Fenster mit × entfernen sowie Qualität, Ton und Pegelanzeigen steuern. |
-| **SingleCam** | Watch one model with an adjustable player, zoom, chat, profile, notes and media gallery. / Ein Model mit anpassbarem Player, Zoom, Chat, Profil, Notizen und Mediengalerie ansehen. |
-| **Discover & tags / Entdecken & Tags** | Browse live rooms, combine tags and use recommendations based on your local interests. / Live-Räume durchsuchen, Tags kombinieren und Empfehlungen anhand eigener lokaler Interessen nutzen. |
-| **Model library / Modellbibliothek** | Organize favorites, groups, personal tags, notes, covers and saved media. / Favoriten, Gruppen, eigene Tags, Notizen, Cover und gespeicherte Medien verwalten. |
-| **Statistics & following / Statistik & Gefolgt** | View locally observed watch time and activity, and the recognized account's following list. / Lokal beobachtete Sehzeit und Aktivität sowie die Gefolgt-Liste des erkannten Kontos ansehen. |
-| **Design & data / Design & Daten** | Customize the interface, save workspaces and export or import your own backups. / Oberfläche anpassen, Arbeitsbereiche speichern und eigene Sicherungen exportieren oder importieren. |
+| **MultiCam** | Mehrere nackte Räume im Raster oder im Fokus. Models in Fenster ziehen, die geilste groß, den Rest daneben, einzelne Kacheln mit × aus der Ansicht werfen. Qualität, Ton und Pegel getrennt. / Several naked rooms in a grid or focus layout. Drag models into windows, keep the hottest one large, throw a tile out of the view with ×. Quality, sound and meters stay separate. |
+| **SingleCam** | Eine Model, groß, hautnah. Zoom, Chat, Profil, Notizen, Galerie. Screenshot und Aufnahme landen lokal bei ihr, wenn der Browser mitmacht und du das Recht hast, das Bild zu behalten. / One model, large, up close. Zoom, chat, profile, notes, gallery. Screenshots and recordings land in her local gallery when the browser allows it and you have the right to keep the image. |
+| **Entdecken / Discover** | Den öffentlichen Katalog durchwühlen. Tags mit UND, ODER und Ausschluss. Vorschläge aus dem, was du lokal schon angestarrt hast. Wer dich kaltlässt, fliegt aus den Vorschlägen. / Dig through the public catalog. Combine tags with AND, OR and exclusion. Suggestions come from what you already watched locally. Cold suggestions can be hidden. |
+| **Bibliothek / Library** | Dein privates Kabinett: Favoriten, Gruppen, eigene Tags, Notizen, Cover, gespeicherte Medien. / Your private cabinet: favorites, groups, your own tags, notes, covers, saved media. |
+| **Gefolgt & Statistik / Following & stats** | Wem du schon hinterherläufst, nur zum Lesen. Dazu die Sehzeit, die Camclient selbst beobachtet hat. / Who you already follow, read-only. Plus the watch time Camclient itself observed. |
+| **Arbeitsbereiche & Design / Workspaces & design** | Layouts speichern, Farben und Nachtfläche verbiegen, Sicherungen raus und wieder rein. Clean-Modus wirft die Bedienelemente weg, bis nur noch Körper bleiben. / Save layouts, bend colors and the night surface, export backups and pull them back in. Clean mode drops the controls until the bodies are what is left. |
 
-<p><strong>Get started / Für den Einstieg:</strong> <a href="https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js">Install or update Camclient / Camclient installieren oder aktualisieren</a> · <a href="#english">English guide</a> · <a href="#deutsch">Deutsche Anleitung</a> · <a href="https://github.com/Emberhost92/Camclient/issues/new/choose">Feedback</a></p>
+<p><strong>Rein in den Floor / Get on the floor:</strong> <a href="https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js">Camclient installieren oder aktualisieren / Install or update Camclient</a> · <a href="#deutsch">Deutsche Anleitung</a> · <a href="#english">English guide</a> · <a href="https://github.com/Emberhost92/Camclient/issues/new/choose">Feedback</a></p>
 
-**Version:** 20.114.0-custom · **License / Lizenz:** [MIT](LICENSE) · **Platform / Plattform:** Chaturbate · [Changes / Änderungen](CHANGELOG.md)
+**Version:** 20.114.0-custom · **Lizenz / License:** [MIT](LICENSE) · **Bühne / Stage:** Chaturbate · [Änderungen / Changes](CHANGELOG.md)
 
-## Features / Funktionen
+## Der Floor / The floor
 
 <details>
-<summary><strong>MultiCam & workspaces / MultiCam & Arbeitsbereiche</strong></summary>
+<summary><strong>MultiCam — die Orgie im Raster / the orgy in the grid</strong></summary>
 
-**English:** Watch several rooms together in a grid or focus layout. Drag a model from the sidebar into a target window, replace a stream or remove it from the current view with ×. Keep groups, favorites and saved workspaces. Adjust quality and audio independently and choose which audio meters are visible. Streams are prioritized over nonessential archive work; actual performance still depends on the number and quality of streams, your device and connection.
+**Deutsch:** Mehrere Räume gleichzeitig. Raster, wenn du alle Körper auf einmal willst. Fokus, wenn eine die Hauptshow ist und die anderen als Nebenfenster geil danebenlaufen. Ein Model aus der Seitenleiste in ein Fenster ziehen, einen Stream ersetzen oder mit × nur aus dieser Ansicht werfen. Das gespeicherte Model bleibt im Arbeitsbereich. Gruppen, Favoriten und gespeicherte Layouts halten die Nacht zusammen. Qualität und Ton stellst du getrennt ein, Pegelanzeigen ein oder aus. Online- und Offline-Meldungen blinken, wenn eine aus deiner Sammlung live geht oder verschwindet. Streams haben Vorrang vor nachrangiger Archivarbeit. Wie flüssig das läuft, hängt von Anzahl, Qualität, Gerät und Leitung ab.
 
-**Deutsch:** Mehrere Räume gemeinsam im Raster oder Fokuslayout ansehen. Ein Model aus der Seitenleiste in ein Fenster ziehen, einen Stream ersetzen oder mit × aus der aktuellen Ansicht entfernen. Gruppen, Favoriten und gespeicherte Arbeitsbereiche nutzen. Qualität und Ton getrennt einstellen und sichtbare Pegelanzeigen wählen. Streams haben Vorrang vor nachrangiger Archivarbeit; die tatsächliche Leistung hängt weiterhin von Anzahl und Qualität der Streams, Gerät und Verbindung ab.
+**English:** Several rooms at once. Grid when you want every body together. Focus when one is the main show and the others stay hot beside her. Drag a model from the sidebar into a window, replace a stream, or use × to throw her out of this view only. The saved model stays in the workspace. Groups, favorites and saved layouts hold the night together. Quality and audio are separate, and audio meters can be shown or hidden. Online and offline alerts flash when someone in your collection goes live or drops off. Streams come before background archive work. How smooth it feels still depends on how many streams you open, their quality, your device and your connection.
 
 </details>
 
 <details>
-<summary><strong>SingleCam, screenshots & recordings / SingleCam, Screenshots & Aufnahmen</strong></summary>
+<summary><strong>SingleCam — eine, ganz nah / one, up close</strong></summary>
 
-**English:** Adjust player size, zoom and sound, and show or hide the sidebar and tools. Open chat, public profile, notes, statistics and the model's media gallery. Explicit screenshots and completed recording segments are stored in the model's local gallery when storage succeeds. Browser downloads or directory access are separate features and depend on browser support and permissions. Use recording only where permitted and with the necessary rights.
+**Deutsch:** Eine Model, groß. Playergröße, Zoom und Ton nach deinem Blick. Seitenleiste und Werkzeuge weg, wenn sie stören. Chat, öffentliches Profil, Notizen, Statistik und ihre Mediengalerie sitzen daneben. Strg oder Command plus Mausrad zoomt ran, Ziehen verschiebt den Ausschnitt, Doppelklick setzt zurück. Explizite Screenshots und fertige Aufnahmeabschnitte landen in ihrer lokalen Galerie, wenn das Speichern klappt. Browserdownload und Ordnerzugriff sind extra und hängen am Browser. Aufnehmen nur, wenn du das Recht dazu hast. Der Player fragt dich vorher. Bild-im-Bild und Vollbild gehen mit, Spiegeln und Drehen auch.
 
-**Deutsch:** Playergröße, Zoom und Ton einstellen sowie Seitenleiste und Werkzeuge ein- oder ausblenden. Chat, öffentliches Profil, Notizen, Statistik und die Mediengalerie des Models öffnen. Explizite Screenshots und fertiggestellte Aufnahmeabschnitte werden bei erfolgreicher Speicherung in der lokalen Modelgalerie abgelegt. Browserdownloads und Ordnerzugriff sind davon getrennt und hängen von Browserunterstützung und Berechtigungen ab. Aufnahmen nur mit den erforderlichen Rechten und soweit erlaubt verwenden.
-
-</details>
-
-<details>
-<summary><strong>Discovery, library & following / Entdecken, Bibliothek & Gefolgt</strong></summary>
-
-**English:** Search and filter the public room catalog, combine tags with AND, OR and exclusion, and find rooms matching your interests. Keep your own notes, tags, groups and covers. The following view uses the signed-in website account when it can be recognized; a stored snapshot can be older than the current live state. Local statistics describe activity observed by Camclient, not complete official account statistics.
-
-**Deutsch:** Den öffentlichen Raumkatalog durchsuchen und filtern, Tags mit UND, ODER und Ausschluss kombinieren und passende Räume finden. Eigene Notizen, Tags, Gruppen und Cover behalten. Die Gefolgt-Ansicht nutzt das angemeldete Website-Konto, soweit es erkannt wird; ein gespeicherter Stand kann älter als der aktuelle Live-Zustand sein. Lokale Statistiken zeigen von Camclient beobachtete Aktivität und sind keine vollständige offizielle Kontostatistik.
+**English:** One model, large. Player size, zoom and sound follow your gaze. Hide the sidebar and tools when they get in the way. Chat, public profile, notes, statistics and her media gallery sit beside the picture. Ctrl or Command plus the wheel zooms in, dragging moves the crop, double-click resets it. Explicit screenshots and finished recording segments land in her local gallery when storage succeeds. Browser downloads and folder access are separate and depend on the browser. Record only when you have the right to keep it. The player asks first. Picture-in-picture, fullscreen, mirror and rotate come with the room.
 
 </details>
 
 <details>
-<summary><strong>Design, preferences & privacy / Design, Einstellungen & Datenschutz</strong></summary>
+<summary><strong>Entdecken, Bibliothek, Gefolgt / Discover, library, following</strong></summary>
 
-**English:** Customize colors, fonts, backgrounds, layouts and previews. Search settings, favorite frequently used options and show changed values. Personal collections and media are kept in your browser rather than supplied with this download. Camclient uses browser storage, IndexedDB and Tampermonkey storage. Website data, live streams, public images and the externally loaded HLS library require network access. Your browser profile and its storage quota determine what can be retained; export backups regularly.
+**Deutsch:** Den öffentlichen Raumkatalog durchsuchen und filtern. Tags mit UND, ODER und Ausschluss kombinieren, nach Zuschauern, Sehzeit, Favoriten, Notizen und ob du sie schon gesehen hast. Empfehlungen kommen aus deinen lokalen Interessen. Uninteressante Vorschläge kannst du ausblenden. Die Bibliothek hält Favoriten, Gruppen, eigene Tags, Notizen, Cover und gespeicherte Medien. Auf der Raumseite legt das Preview Dock den aktuellen Raum in den Arbeitsbereich, macht Screenshot, Aufnahme, Bild-im-Bild, Pause und Stumm, ohne dass du die Show erst suchen musst. Gefolgt liest die offiziellen Following-Seiten des angemeldeten Kontos. Camclient folgt dort niemandem und entfolgt niemandem. Ein gespeicherter Stand kann älter sein als der Live-Zustand. Die lokale Statistik zählt Sehzeit, Sitzungen, Tags und Stunden, die Camclient selbst gesehen hat. Hover-Vorschauen zählen nicht. Keine Tokens, keine Zahlungen, keine privaten Nachrichten, keine Passwörter.
 
-**Deutsch:** Farben, Schriften, Hintergründe, Layouts und Vorschauen anpassen. Einstellungen durchsuchen, häufig verwendete Optionen favorisieren und geänderte Werte anzeigen. Persönliche Sammlungen und Medien liegen im eigenen Browser und werden nicht mit diesem Download ausgeliefert. Camclient verwendet Browserspeicher, IndexedDB und Tampermonkey-Speicher. Website-Daten, Live-Streams, öffentliche Bilder und die extern geladene HLS-Bibliothek benötigen Netzwerkzugriff. Browserprofil und Speicherquote bestimmen, was erhalten bleiben kann; regelmäßig Sicherungen exportieren.
+**English:** Search and filter the public room catalog. Combine tags with AND, OR and exclusion, and filter by viewers, watch time, favorites, notes and whether you have seen her before. Recommendations come from your local interests. Hide suggestions that leave you cold. The library keeps favorites, groups, your own tags, notes, covers and saved media. On a room page the Preview Dock drops the current room into the workspace and reaches screenshot, recording, picture-in-picture, pause and mute without a hunt. Following reads the official Following pages of the signed-in account. Camclient does not follow or unfollow anyone there. A stored snapshot can be older than the live state. Local statistics count watch time, sessions, tags and hours that Camclient itself observed. Hover previews do not count. No tokens, no payments, no private messages, no passwords.
 
 </details>
 
-## English
-
 <details>
-<summary><strong>Open installation guide: new installation and updates</strong></summary>
+<summary><strong>Nachtfläche, Arbeitsbereiche, dein Zeug / Night surface, workspaces, your stuff</strong></summary>
 
-### 1. Requirements
+**Deutsch:** Farben, Schriften, Hintergründe, Layouts und Vorschauen verbiegen, bis der Floor nach deiner Nacht aussieht. Dark Mode lässt das Bild dunkel und den Stream in Ruhe. Clean-Modus und Fensterpriorität räumen Rahmen weg, damit mehr Haut ins Fenster passt. Einstellungen sind durchsuchbar. Arbeitsbereiche merken sich Räume und Layout, ein Freigabelink holt sie in einem anderen Tab zurück, deine aktuelle Konfiguration wird vorher gesichert. Export und Import sichern Konfiguration und Statistik. Persönliche Sammlungen und Medien liegen im Browser, in IndexedDB und im Tampermonkey-Speicher. Sie stecken nicht in diesem Download. Website, Live-Streams, öffentliche Bilder und die extern geladene HLS-Bibliothek brauchen Netz. Was bleibt, entscheidet dein Profil und sein Speicherplatz. Vor großen Änderungen eine Sicherung rausziehen.
 
-- A browser with [Tampermonkey](https://www.tampermonkey.net/). Local development checks used Brave; support for every browser and device has not been established.
-- Access to Chaturbate and an internet connection for live content.
-- Use only where you meet the website's age and access requirements. Camclient does not bypass login, age checks or access restrictions.
-
-### 2. Install
-
-1. Install Tampermonkey from its official website for your browser.
-2. If Tampermonkey reports that userscripts are disabled, follow its [official setup instructions](https://www.tampermonkey.net/faq.php#Q209). Chrome-based browsers may require **Allow User Scripts** or Developer Mode.
-3. Open **[Install Camclient](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** and review the Tampermonkey installation screen.
-4. Confirm the script installation, then open or reload Chaturbate.
-5. Open [Camclient Home](https://chaturbate.com/?multicam_discover=1&suite_view=dashboard) or [MultiCam](https://chaturbate.com/?multicam_mode=1).
-
-**If you only see JavaScript:** Open Tampermonkey's dashboard, create a new script, replace the template with the complete contents of `Camclient.user.js` and save. Enable the script and reload the website. This is a userscript; do not paste it into the website console.
-
-### 3. Update an existing installation
-
-Export a backup of your settings and important media first. Open the install link again and update the existing Camclient entry. If using the editor, replace the contents of that existing script, save and reload the website. Do not create a second active copy. Keep the same browser profile and script identity. There is no separately configured automatic update feed in this version.
-
-Updates use the existing stored data. Removing the script, clearing website or extension data, changing profiles or running out of storage may affect it; an update is not a substitute for a backup.
-
-### 4. First steps
-
-- **Home / Discover:** Choose a public room and open SingleCam or MultiCam.
-- **MultiCam:** Drag models from the left list into windows; × removes a window from the current view.
-- **SingleCam:** Adjust the player and open its tabs for chat, notes, profile and gallery.
-- **Settings:** Search for an option or expand the relevant section.
-- **Data & workspaces:** Save your layout and export a backup before major changes.
-
-### 5. If something does not work
-
-Confirm that Tampermonkey and Camclient are enabled, only one Camclient copy is active and the page was reloaded after saving. Check the displayed version under **About**. For buffering, test one stream first and check your connection and chosen quality. A private or offline room is not an available public stream. Send a report with the script version, browser, affected area and steps to reproduce; remove private information first.
+**English:** Bend colors, fonts, backgrounds, layouts and previews until the floor looks like your night. Dark mode keeps the surface dark and leaves the stream alone. Clean mode and window priority clear the frame so more skin fits. Settings are searchable. Workspaces remember rooms and layout, and a share link restores them in another tab after your current setup is backed up. Export and import cover configuration and statistics. Personal collections and media live in the browser, in IndexedDB and in Tampermonkey storage. They are not inside this download. The site, live streams, public images and the externally loaded HLS library need a network. Your profile and its storage quota decide what survives. Export a backup before a big change.
 
 </details>
 
 ## Deutsch
 
 <details>
-<summary><strong>Installationsanleitung öffnen: Erstinstallation und Updates</strong></summary>
+<summary><strong>Installationsanleitung: erst rein, dann aktualisieren</strong></summary>
 
-### 1. Voraussetzungen
+### 1. Was du brauchst
 
-- Einen Browser mit [Tampermonkey](https://www.tampermonkey.net/). Die lokalen Entwicklungsprüfungen verwendeten Brave; eine Prüfung sämtlicher Browser und Geräte liegt nicht vor.
-- Zugriff auf Chaturbate und Internet für Live-Inhalte.
-- Nutzung nur, wenn du die Alters- und Zugangsvoraussetzungen der Website erfüllst. Camclient umgeht keine Anmeldung, Altersprüfung oder Zugriffsbeschränkung.
+- Einen Browser mit [Tampermonkey](https://www.tampermonkey.net/). Die lokalen Entwicklungsprüfungen liefen auf Brave. Dass jeder Browser und jedes Gerät mitmacht, ist nicht geprüft.
+- Zugang zu Chaturbate und Netz für die Live-Bilder.
+- Du musst volljährig sein und die Alters- und Zugangsprüfung von Chaturbate selbst bestehen. Camclient bricht keine Anmeldung, keine Altersprüfung und keine Sperre auf.
 
 ### 2. Installieren
 
 1. Installiere Tampermonkey für deinen Browser über die offizielle Website.
-2. Falls Tampermonkey deaktivierte Userscripts meldet, folge der [offiziellen Einrichtungshilfe](https://www.tampermonkey.net/faq.php#Q209). Chrome-basierte Browser können **Userscripts zulassen / Allow User Scripts** oder den Entwicklermodus verlangen.
-3. Öffne **[Camclient installieren](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** und prüfe die angezeigte Tampermonkey-Installationsseite.
-4. Bestätige die Skriptinstallation und öffne oder lade Chaturbate neu.
+2. Meldet Tampermonkey deaktivierte Userscripts, folge der [offiziellen Einrichtungshilfe](https://www.tampermonkey.net/faq.php#Q209). Chrome-basierte Browser können **Userscripts zulassen / Allow User Scripts** oder den Entwicklermodus verlangen.
+3. Öffne **[Camclient installieren](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** und lies die Tampermonkey-Installationsseite.
+4. Bestätige die Installation und öffne oder lade Chaturbate neu.
 5. Öffne die [Camclient-Startseite](https://chaturbate.com/?multicam_discover=1&suite_view=dashboard) oder [MultiCam](https://chaturbate.com/?multicam_mode=1).
 
-**Du siehst nur JavaScript?** Öffne das Tampermonkey-Dashboard, erstelle ein neues Skript, ersetze die Vorlage durch den vollständigen Inhalt von `Camclient.user.js` und speichere. Aktiviere das Skript und lade die Website neu. Es handelt sich um ein Userscript; den Code nicht in die Website-Konsole einfügen.
+**Du siehst nur JavaScript?** Öffne das Tampermonkey-Dashboard, erstelle ein neues Skript, ersetze die Vorlage durch den vollständigen Inhalt von `Camclient.user.js` und speichere. Aktiviere das Skript und lade die Website neu. Den Code nicht in die Website-Konsole einfügen.
 
-### 3. Bestehende Installation aktualisieren
+### 3. Eine bestehende Installation aktualisieren
 
-Exportiere zuerst eine Sicherung deiner Einstellungen und wichtiger Medien. Öffne den Installationslink erneut und aktualisiere den vorhandenen Camclient-Eintrag. Bei Verwendung des Editors ersetzt du den Inhalt dieses bestehenden Skripts, speicherst und lädst die Website neu. Keine zweite aktive Kopie anlegen. Dasselbe Browserprofil und dieselbe Skriptidentität beibehalten. Diese Version enthält keinen separat eingerichteten automatischen Updatekanal.
+Exportiere zuerst eine Sicherung deiner Einstellungen und der Medien, die du behalten willst. Öffne den Installationslink erneut und aktualisiere den vorhandenen Camclient-Eintrag. Im Editor ersetzt du den Inhalt dieses bestehenden Skripts, speicherst und lädst die Website neu. Keine zweite aktive Kopie anlegen. Dasselbe Browserprofil und dieselbe Skriptidentität behalten. Diese Version hat keinen separat eingerichteten automatischen Updatekanal.
 
-Updates verwenden die vorhandenen gespeicherten Daten. Skriptentfernung, Löschen von Website- oder Erweiterungsdaten, Profilwechsel und fehlender Speicherplatz können sie beeinträchtigen; ein Update ersetzt keine Sicherung.
+Das Update benutzt die Daten, die schon daliegen. Skript löschen, Website- oder Erweiterungsdaten leeren, das Profil wechseln oder der Speicher voll ist: das kann die Sammlung treffen. Ein Update ist keine Sicherung.
 
-### 4. Erste Schritte
+### 4. Die ersten Griffe
 
-- **Start / Entdecken:** Einen öffentlichen Raum auswählen und in SingleCam oder MultiCam öffnen.
-- **MultiCam:** Models aus der linken Liste in Fenster ziehen; × entfernt ein Fenster aus der aktuellen Ansicht.
-- **SingleCam:** Player einstellen und Chat, Notizen, Profil oder Galerie über die Reiter öffnen.
-- **Einstellungen:** Nach einer Option suchen oder den passenden Bereich aufklappen.
+- **Start / Entdecken:** einen öffentlichen Raum nehmen und in SingleCam oder MultiCam aufziehen.
+- **MultiCam:** Models aus der linken Liste in Fenster ziehen. × leert nur dieses Fenster.
+- **SingleCam:** Player einstellen, dann Chat, Notizen, Profil oder Galerie.
+- **Einstellungen:** nach einer Option suchen oder den passenden Bereich aufklappen.
 - **Daten & Arbeitsbereiche:** Layout speichern und vor größeren Änderungen eine Sicherung exportieren.
 
-### 5. Wenn etwas nicht funktioniert
+### 5. Wenn die Show hakt
 
-Prüfe, ob Tampermonkey und Camclient aktiviert sind, nur eine Camclient-Kopie läuft und die Seite nach dem Speichern neu geladen wurde. Unter **Über** steht die angezeigte Version. Bei Nachladen zunächst einen Stream testen und Verbindung sowie gewählte Qualität prüfen. Ein privater oder offline geschalteter Raum ist kein verfügbarer öffentlicher Stream. Für eine Fehlermeldung Skriptversion, Browser, betroffenen Bereich und Schritte zum Nachstellen angeben; persönliche Informationen vorher entfernen.
+Tampermonkey und Camclient müssen an sein, nur eine Camclient-Kopie darf laufen, und die Seite muss nach dem Speichern neu geladen sein. Unter **Über** steht die angezeigte Version. Bei Nachladen erst einen Stream testen und Verbindung plus Qualität prüfen. Ein privater oder offline geschalteter Raum ist kein öffentlicher Stream. Für eine Fehlermeldung Version, Browser, betroffene Stelle und die Schritte angeben. Passwörter, Cookies, Schlüssel und persönliche Sicherungen vorher raus.
 
 </details>
 
-## Downloads & changes / Downloads & Änderungen
+## English
 
-| File / Datei | Purpose / Zweck |
+<details>
+<summary><strong>Open the install guide: first time, then updates</strong></summary>
+
+### 1. What you need
+
+- A browser with [Tampermonkey](https://www.tampermonkey.net/). Local development checks used Brave. Every browser and device has not been proven.
+- Access to Chaturbate and a connection for the live pictures.
+- You need to be an adult and pass Chaturbate's own age and access checks. Camclient does not break login, age gates or blocks.
+
+### 2. Install
+
+1. Install Tampermonkey for your browser from its official site.
+2. If Tampermonkey says userscripts are disabled, follow its [official setup instructions](https://www.tampermonkey.net/faq.php#Q209). Chrome-based browsers may require **Allow User Scripts** or Developer Mode.
+3. Open **[Install Camclient](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** and read the Tampermonkey installation screen.
+4. Confirm the install, then open or reload Chaturbate.
+5. Open [Camclient Home](https://chaturbate.com/?multicam_discover=1&suite_view=dashboard) or [MultiCam](https://chaturbate.com/?multicam_mode=1).
+
+**If you only see JavaScript:** Open Tampermonkey's dashboard, create a new script, replace the template with the complete contents of `Camclient.user.js` and save. Enable the script and reload the site. Do not paste it into the website console.
+
+### 3. Update an existing installation
+
+Export a backup of your settings and the media you want to keep. Open the install link again and update the existing Camclient entry. In the editor, replace the contents of that existing script, save and reload the site. Do not create a second active copy. Keep the same browser profile and script identity. This version has no separately configured automatic update feed.
+
+The update uses the data already stored. Removing the script, clearing site or extension data, switching profiles or running out of storage can hit the collection. An update is not a backup.
+
+### 4. First grabs
+
+- **Home / Discover:** pick a public room and open it in SingleCam or MultiCam.
+- **MultiCam:** drag models from the left list into windows. × clears only that window.
+- **SingleCam:** set the player, then open chat, notes, profile or gallery.
+- **Settings:** search for an option or expand the section you want.
+- **Data & workspaces:** save the layout and export a backup before a big change.
+
+### 5. When the show stalls
+
+Tampermonkey and Camclient have to be on, only one Camclient copy may be active, and the page has to be reloaded after a save. **About** shows the running version. If it buffers, test one stream and check the connection and the quality you picked. A private or offline room is not a public stream. A bug report needs the script version, browser, the area that broke and the steps. Strip passwords, cookies, keys and personal backups first.
+
+</details>
+
+## Was der Floor nicht aufbricht / What the floor does not break
+
+- Camclient ist kein offizielles Chaturbate-Produkt. Die Bühne bleibt deren Seite. Der Floor ist deiner. / Camclient is not an official Chaturbate product. The stage stays their site. The floor is yours.
+- Anmeldung, Alter und Sperren bleiben, wo Chaturbate sie hinsetzt. / Login, age and blocks stay where Chaturbate put them.
+- Gefolgt ist nur lesen. Folgen und Entfolgen passiert hier nicht. / Following is read-only. Nobody gets followed or unfollowed here.
+- Lokale Statistik ist deine beobachtete Sehzeit. Sie ist nicht die offizielle Kontokasse. / Local statistics are the watch time Camclient observed. They are not the official account ledger.
+- Screenshots und Aufnahmen bleiben lokal und nur mit dem Recht, sie zu speichern. Manche Streams lassen sich vom Browser nicht zeichnen oder aufnehmen. / Screenshots and recordings stay local and only with the right to store them. Some streams cannot be drawn or recorded by the browser.
+- Dieses Paket ist der installierbare Build und die öffentliche Doku. Keine persönliche Sammlung, keine Cookies, keine Sicherungen von dir. / This package is the installable build and the public docs. No personal collection, no cookies, no backup of yours.
+
+## Downloads
+
+| Datei / File | Wozu / What for |
 | --- | --- |
-| **[Camclient.user.js](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** | Complete installable userscript / Vollständiges installierbares Userscript |
-| [CHANGELOG.md](CHANGELOG.md) | Recent changes / Letzte Änderungen |
-| [SHA256SUMS](SHA256SUMS) | Download checksum / Download-Prüfsumme |
-| [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) | Attribution and third-party notices / Urheber- und Drittanbieterhinweise |
+| **[Camclient.user.js](https://raw.githubusercontent.com/Emberhost92/Camclient/main/Camclient.user.js)** | Das Skript, fertig zum Installieren / The script, ready to install |
+| [CHANGELOG.md](CHANGELOG.md) | Letzte Änderungen / Recent changes |
+| [SHA256SUMS](SHA256SUMS) | Prüfsumme / Checksum |
+| [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) | Urheber- und Drittanbieterhinweise / Attribution and third-party notices |
 
-The JavaScript file is also the distributed source. This repository package contains the clean installable build and public documentation, not personal browser exports. / Die JavaScript-Datei ist zugleich der ausgelieferte Quellcode. Dieses Paket enthält den sauberen installierbaren Build und öffentliche Dokumentation, keine persönlichen Browserexporte.
+Die JavaScript-Datei ist der ausgelieferte Quellcode. / The JavaScript file is the shipped source.
 
-## Feedback & support / Feedback & Unterstützung
+## Feedback
 
-Use [GitHub Issues](https://github.com/Emberhost92/Camclient/issues/new/choose) for bugs and feature requests. Public reports must not contain passwords, session cookies, API keys or personal backups. / Nutze [GitHub Issues](https://github.com/Emberhost92/Camclient/issues/new/choose) für Fehler und Wünsche. Öffentliche Meldungen dürfen keine Passwörter, Sitzungscookies, API-Schlüssel oder persönlichen Sicherungen enthalten.
+Fehler und Wünsche über [GitHub Issues](https://github.com/Emberhost92/Camclient/issues/new/choose). In öffentliche Meldungen gehören keine Passwörter, Sitzungscookies, API-Schlüssel und keine persönlichen Sicherungen. / Bugs and wishes go through [GitHub Issues](https://github.com/Emberhost92/Camclient/issues/new/choose). Public reports do not get passwords, session cookies, API keys or personal backups.
 
-**[Adult Client](https://github.com/Emberhost92/AdultClient)** is Emberhost's separate Windows application. / **[Adult Client](https://github.com/Emberhost92/AdultClient)** ist Emberhosts eigenständige Windows-Anwendung.
+**[Adult Client](https://github.com/Emberhost92/AdultClient)** ist Emberhosts eigene Windows-Anwendung, ein anderes Haus. / **[Adult Client](https://github.com/Emberhost92/AdultClient)** is Emberhost's separate Windows application, a different house.
 
-Camclient is released under the [MIT license](LICENSE). Legacy copyright notices are retained in the script and [third-party notices](THIRD_PARTY_NOTICES.md). / Camclient steht unter der [MIT-Lizenz](LICENSE). Übernommene Copyright-Hinweise bleiben im Skript und den [Drittanbieterhinweisen](THIRD_PARTY_NOTICES.md) erhalten.
+Camclient steht unter der [MIT-Lizenz](LICENSE). Übernommene Copyright-Hinweise bleiben im Skript und in den [Drittanbieterhinweisen](THIRD_PARTY_NOTICES.md). / Camclient is under the [MIT license](LICENSE). Carried copyright notices stay in the script and in the [third-party notices](THIRD_PARTY_NOTICES.md).
