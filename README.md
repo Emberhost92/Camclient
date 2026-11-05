@@ -15,6 +15,7 @@ Damit schaust du deine Lieblingsmodels und Streamerinnen auf Chaturbate: live, n
 - **SingleCam:** eine Streamerin groß, mit Zoom, Ton, Chat, Profil und eigenen Notizen. Screenshots und Aufnahmen landen in ihrer Galerie, lokal bei dir. Bild-im-Bild und Vollbild gehen auch.
 - **MultiCam:** mehrere Cams im Raster, oder eine groß und die anderen daneben. Reinziehen, austauschen, mit × aus der Ansicht nehmen. Ton und Qualität pro Fenster. Anzeige, ob in der Cam gerade was zu hören ist, auch bei Stumm. Meldung, wenn eine aus deiner Sammlung online oder offline geht.
 - **Entdecken:** öffentliche Räume suchen. Tags mit UND, ODER und Ausschluss, nach Zuschauern filtern, Favoriten und wen du schon gesehen hast. Vorschläge nach dem, was du dir lokal schon angeschaut hast. Den Rest ausblenden.
+- **Live-Vorschau:** Auf der Startseite und in den Listen laufen die Karten als Livebild. Maus drauf, dann kommt das Video stumm und etwas größer. Anheften geht auch. Zählt nicht als Sehzeit.
 - **Bibliothek:** Favoriten, Gruppen, eigene Tags, Notizen, Cover, gespeicherte Bilder und Clips. Auf der Raumseite ein Dock: aktuelle Streamerin in den Arbeitsbereich, Screenshot, Aufnahme, Bild-im-Bild, Pause, Stumm.
 - **Gefolgt:** die Models, denen du auf Chaturbate folgst. Nur die Liste. Das Skript folgt niemandem und entfolgt niemandem.
 - **Statistik:** wen du wie lange angeschaut hast, wie oft, welche Tags, zu welcher Uhrzeit. Nur das, was Camclient selbst gesehen hat. Keine Tokens, keine privaten Nachrichten, keine Passwörter.
@@ -44,6 +45,7 @@ Userscript for Chaturbate, by **Emberhost**. Watch your favorite models and fema
 - **SingleCam:** one streamer large, with zoom, sound, chat, profile and your notes. Screenshots and recordings go into her gallery on your machine. Picture-in-picture and fullscreen too.
 - **MultiCam:** several cams in a grid, or one large and the others beside her. Drag in, swap, remove from the view with ×. Sound and quality per window. A meter shows when the cam is making noise, even while muted. Alert when someone in your collection goes online or offline.
 - **Discover:** search public rooms. Tags with AND, OR and exclude. Filter by viewers, favorites and who you already watched. Suggestions follow what you watched locally. Hide the rest.
+- **Live preview:** On the home page and in the lists the cards show the live picture. Hover and the video plays muted, a bit larger. You can pin it. It does not count as watch time.
 - **Library:** favorites, groups, your own tags, notes, covers, saved pictures and clips. On the room page a dock adds the current streamer to your workspace and does screenshot, recording, picture-in-picture, pause and mute.
 - **Following:** the models you already follow on Chaturbate. The list only. The script does not follow or unfollow anyone.
 - **Stats:** who you watched, for how long, how often, which tags, what hour. Only what Camclient itself saw. No tokens, no private messages, no passwords.
